@@ -1,2 +1,2 @@
 # tagghana.github.io
-Time advice is assured.
+Timely advice is assured.
