@@ -86,7 +86,7 @@ main {
     /* For width 400px and larger: */
 @media only screen and (min-width: 400px) {
     .custom-position-section { 
-       background-image: url('images/backbig2.JPG'); 
+       background-image: url('images/indeximage.JPG'); 
     }
   }
 
