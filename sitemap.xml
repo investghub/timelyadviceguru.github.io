@@ -7,18 +7,6 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://tagghana.github.io/about.html</loc>
-        <lastmod>2024-09-13</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://tagghana.github.io/contact-us.html</loc>
-        <lastmod>2024-09-13</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    <url>
         <loc>https://tagghana.github.io/articles-top-performing-cryptocurrencies-now.html</loc>
         <lastmod>2024-09-13</lastmod>
         <changefreq>monthly</changefreq>
@@ -31,12 +19,6 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://tagghana.github.io/credits.html</loc>
-        <lastmod>2024-09-13</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.2</priority>
-    </url>
-    <url>
         <loc>https://tagghana.github.io/post-jobs-best-part-time-jobs-in-ghana.html</loc>
         <lastmod>2024-09-13</lastmod>
         <changefreq>monthly</changefreq>
@@ -47,12 +29,6 @@
         <lastmod>2024-09-13</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://tagghana.github.io/terms-of-service.html</loc>
-        <lastmod>2024-09-13</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.2</priority>
     </url>
     <url>
         <loc>https://tagghana.github.io/tips-best-ways-to-make-money-online-for-ghanaians-now.html</loc>
@@ -68,6 +44,12 @@
     </url>
     <url>
         <loc>https://tagghana.github.io/articles-how-obtain-$HMSTR-address-and-memo.html</loc>
+        <lastmod>2024-09-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://tagghana.github.io/tools-best-crypto-widgets-now.html</loc>
         <lastmod>2024-09-14</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
