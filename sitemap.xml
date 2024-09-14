@@ -60,5 +60,11 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://tagghana.github.io/review-facts-about-electoral-commission-jobs.html</loc>
+        <lastmod>2024-09-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
     <!-- Add more URLs as needed -->
 </urlset>
