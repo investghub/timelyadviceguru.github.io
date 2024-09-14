@@ -2,11 +2,11 @@ User-agent: Mediapartners-Google
 Disallow: 
 
 User-agent: * 
-Disallow: /search* # to block all user generated query item within the website.
-Disallow: /https://timelyadviceguru.github.io/terms-of-service.html
-Disallow: /https://timelyadviceguru.github.io/about.html
-Disallow: /https://timelyadviceguru.github.io/contact-us.html
-Disallow: /https://timelyadviceguru.github.io/credits.html
+Disallow: /search* #
+Disallow: /terms-of-service.html
+Disallow: /about.html
+Disallow: /contact-us.html
+Disallow: /credits.html
 Allow: /*.html 
 
 Sitemap: https://timelyadviceguru.github.io/sitemap.xml
