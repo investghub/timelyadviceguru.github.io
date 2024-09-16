@@ -75,51 +75,26 @@ main {
     padding: 0px;
 }
     .custom-position-section {
+        position: relative;
         height: 640px; /* Set the height of the section */
         padding: 30px; /* Adds padding inside the section */
         background-repeat: no-repeat;
         background-size: cover;
-        background-image: url('images/backsmall.JPG'); /* Default image for smaller screens */
+        background-image: url('images/home-background-small.JPG'); /* Default image for smaller screens */
 
     }
 
-    /* For width 400px and larger: */
-@media only screen and (min-width: 400px) {
+    /* For width 450px and larger: */
+@media only screen and (min-width: 450px) {
     .custom-position-section { 
-       background-image: url('images/indeximage.JPG'); 
+       background-image: url('images/home-background.jpg'); 
     }
   }
 
-    /* Style for the object (text) */
-    .object-text-1 {
-        left: 30px;
-        top: 80px;
-        font-size: 60px;
-        color: white; /* Text color */
-        font-weight: bold;
-        flex-wrap: wrap;
-    }
-
-    .object-text-2 {
-        left: 30px;
-        bottom: 260px;
-        font-size: 40px;
-        color: white; /* Text color */
-        font-weight: bold;
-        flex-wrap: wrap;
-    }
-
-    .object-text-3 {
-        left: 30px;
-        bottom: 190px;
-        font-size: 20px;
-        color: white; /* Text color */
-        flex-wrap: wrap;
-    }
-
     .object-button {
+        position: absolute;
         left: 80px;
-        bottom: 50px;
+        bottom: 60px;
         font-size: 20px;
         color: white; /* Text color */
         flex-wrap: wrap;
