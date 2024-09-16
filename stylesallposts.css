@@ -222,6 +222,21 @@ main {
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
 
+    .container-91 {
+        display: grid;
+        grid-template-columns: 1fr;
+        max-width: 600px;
+        margin: 20px auto;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        background-color: #007bff;
+        color: white;
+        text-align: center;
+    }
+
     .text-side {
         padding: 20px;
         display: flex;
@@ -247,8 +262,22 @@ main {
         align-self: start;
     }
 
+    .text-side-91 button {
+        padding: 10px 20px;
+        border: none;
+        background-color: green;
+        color: white;
+        border-radius: 5px;
+        cursor: pointer;
+        align-self: start;
+    }
+
     .text-side button:hover {
         background-color: green;
+    }
+
+    .text-side-91 button:hover {
+        background-color: pink;
     }
 
     .image-side {
