@@ -16,7 +16,7 @@ geared towards you making informed and wise investment decisions.</p>
 <p>In the fast paced world of finance and investment, there are a lot of misinformation and <br>
 misunderstandings. This is where we come in to guide you on whats real and whats not.</p>
 
-                <h3>Commitment To Community</h3>
-                <p>The finance ecosystem especially for crypto is essentially community-driven. We are committed <br>
-                to offer a robust platform where newbies, experts and enthusiasts can connect, share their <br>
-                knowledge and experiences, to build even a strong community.</p>
+<h3>Commitment To Community</h3>
+<p>The finance ecosystem especially for crypto is essentially community-driven. We are committed <br>
+to offer a robust platform where newbies, experts and enthusiasts can connect, share their <br>
+knowledge and experiences, to build even a strong community.</p>
