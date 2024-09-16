@@ -102,5 +102,11 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://timelyadviceguru.github.io/investment-opportunities-gcb-wealth-master-review.html</loc>
+        <lastmod>2024-09-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
     <!-- Add more URLs as needed -->
 </urlset>
