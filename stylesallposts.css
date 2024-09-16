@@ -387,6 +387,23 @@ main {
         background-color: #555;
       }
 
+      .btn-pw {
+        width: 50%;
+        height: 50px;
+        font-size: 17px;
+        border: none;
+        outline: none;
+        background-color: blue;
+        color: white;
+        cursor: pointer;
+        padding: 15px;
+        border-radius: 4px;
+      }
+      
+      .btn-pw:hover {
+        background-color: blueviolet;
+      }
+
 footer {
     background-color: #333;
     color: white;
