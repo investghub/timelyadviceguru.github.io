@@ -1,6 +1,6 @@
-Timely advice is assured.<br>
+Make Money Ghana (MMG)<br>
 <br>
-Timely Advice Guru is a financial and investment advice blog that is committed to bringing people tred-and-tested ways of inproving their financial statuses.<br>
+Make Money Ghana is a financial and investment advice blog that is committed to bringing people tred-and-tested ways of inproving their financial statuses.<br>
 <br>
 To be careful not to praise our own selves, what we really pride ourselves on is providing <br>
 tried-and-tested and experience-filled content that actually works as compared to all the <br>
